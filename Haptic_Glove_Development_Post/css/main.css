@@ -1,0 +1,552 @@
+.header {
+  position: fixed;
+  top: 0;
+  background-color: #8B008B;
+  width: 100%;
+  height: 30px;
+}
+
+.headerlinks {
+  height: 30px;
+  width: 300px;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 30px;
+  font-size: 14px;
+}
+.headerlinks > a {
+  padding-left: 4px;
+  -webkit-transition: padding .4s;   
+  -moz-transition: padding .4s;  
+  -o-transition: padding .4s;  
+  transition: padding .4s;  
+  color: #fffa00;
+  visibility: hidden;
+}  
+  
+.headerlinks > a:hover {   
+   font-size: 16px;
+   color: hotpink;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Box-One {
+  width: 86%;
+  background-color: #8B008B;
+  margin: 40px auto 0 auto;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  font-size: 32px;
+}
+
+
+
+
+
+
+
+
+
+.Box-Two {
+  width: 918px;
+  background-color: #8B008B;
+  margin: 40px auto 0 auto;
+  height: 1224px;
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+  position: relative;
+  background-image: url('../image/alphaglove.jpg');
+  background-size: contain;
+}
+
+
+.Box-Two-extra{
+  width: 22%;
+  background-color: #8B008B;
+  margin: 40px auto 0 auto;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Box-Three {
+  width: 86%;
+  background-color: #8B008B;
+  margin: 40px auto 0 auto;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  font-size: 20px;
+}
+
+
+.Box-Three-extra {
+  width: 75%;
+  background-color: #8B008B;
+  margin: 40px auto 0 auto;
+  height: 55px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+.Box-Four {
+  width: 640px;
+  background-color: #8B008B;
+  margin: 40px auto 0 auto;
+  height: 551px;
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+  position: relative;
+  background-image: url('../image/Senso_inside_preview.jpg');
+  background-size: contain;
+}
+
+
+.Box-Four-extra {
+  width: 13%;
+  background-color: #8B008B;
+  margin: 40px auto 0 auto;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  font-size: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+.Box-Five {
+  width: 640px;
+  background-color: #8B008B;
+  margin: 40px auto 0 auto;
+  height: 427px;
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+  position: relative;
+  background-image: url('../image/Senso_1_preview.jpg');
+  background-size: contain;
+}
+
+
+.Box-Five-extra {
+  width: 13%;
+  background-color: #8B008B;
+  margin: 40px auto 0 auto;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Box-Six {
+  width: 800px;
+  background-color: #8B008B;
+  margin: 40px auto 0 auto;
+  height: 497px;
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+  position: relative;
+  background-image: url('../image/PosterChallenge3_800x640.png');
+  background-size: contain;
+}
+
+
+.Box-Six-extra {
+  width: 20%;
+  background-color: #8B008B;
+  margin: 40px auto 0 auto;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  font-size: 20px;
+}
+
+
+
+
+
+
+
+
+.Box-Seven{
+  width: 30%;
+  background-color: #8B008B;
+  margin: 40px auto 0 auto;
+  height: 55px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  font-size: 32px;
+}
+
+
+
+
+
+
+
+
+
+
+.Box-Eight {
+  width: 612px;
+  background-color: #8B008B;
+  margin: 40px auto 0 auto;
+  height: 816px;
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+  position: relative;
+  background-image: url('../image/e19f31b2-f415-4cae-afec-db6997fe710f.jpg');
+  background-size: contain;
+}
+
+
+
+
+
+
+
+
+
+
+.Box-Nine {
+  width: 612px;
+  background-color: #8B008B;
+  margin: 40px auto 0 auto;
+  height: 816px;
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+  position: relative;
+  background-image: url('../image/31db8de4-7097-4825-8a8d-4c85f834b884.jpg');
+  background-size: contain;
+}
+
+
+
+
+
+
+
+
+
+
+.Box-Ten {
+  width: 86%;
+  background-color: #8B008B;
+  margin: 40px auto 0 auto;
+  height: 90px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  font-size: 20px;
+}
+
+
+
+
+
+
+.Box-Eleven {
+  width: 360px;
+  background-color: #a7aeba;
+  margin: 40px auto 0 auto;
+  height: 438px;
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+  position: relative;
+  background-image: url('../image/duodecimal-hand.png');
+  background-size: contain;
+}
+
+
+
+
+
+
+.Box-Twelve {
+  width: 86%;
+  background-color: #8B008B;
+  margin: 40px auto 0 auto;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  font-size: 20px;
+}
+
+
+
+
+
+
+
+
+.Box-Thirteen {
+  width: 1300px;
+  background-color: #8B008B;
+  margin: 40px auto 0 auto;
+  height: 157px;
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+  position: relative;
+  background-image: url('../image/survey opinion.png');
+  background-size: contain;
+}
+
+
+
+
+
+
+.Box-Fourteen {
+  width: 500px;
+  background-color: #8B008B;
+  margin: 40px auto 0 auto;
+  height: 500px;
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+  position: relative;
+  background-image: url('../image/316f1880-6dd2-4f75-a42b-203e55e2dcb4.jpg');
+  background-size: contain;
+}
+
+
+
+
+
+
+
+
+.Box-Fifthteen {
+  width: 56%;
+  background-color: #8B008B;
+  margin: 40px auto 0 auto;
+  height: 55px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+.Box-Sixteen {
+  width: 300px;
+  background-color: #8B008B;
+  margin: 40px auto 0 auto;
+  height: 300px;
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+  position: relative;
+  background-image: url('../image/400-MA018_MA.jpg');
+  background-size: contain;
+}
+
+
+
+.Box-Sixteen-extra {
+  width: 20%;
+  background-color: #8B008B;
+  margin: 40px auto 0 auto;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+.Box-Seventeen {
+  width: 53%;
+  background-color: #8B008B;
+  margin: 40px auto 0 auto;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  font-size: 20px;
+}
+
+
+
+
+.Box-Eightteen {
+  width: 1276px;
+  background-color: #8B008B;
+  margin: 40px auto 0 auto;
+  height: 164px;
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+  position: relative;
+  background-image: url('../image/stustusutusu.png');
+  background-size: contain;
+}
+
+
+
+
+
+.Box-Nineteen {
+  width: 56%;
+  background-color: #8B008B;
+  margin: 40px auto 0 auto;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.content {
+  background-color:#6d23d3;
+  width:100%;
+  padding-bottom: 150px;
+  padding-top: 50px;
+}
+
+
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  background-color: #8B008B;
+  width: 100%;
+  height: 30px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 30px;
+}
